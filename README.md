@@ -12,7 +12,7 @@ IT support engineer moving into **Linux administration and cloud / DevOps**. Riy
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Gearroom](https://github.com/omar-al-jazar/arcks-warehouse-shadcn) | Equipment checkout and inventory app for a film-gear warehouse, self-hosted on my Linux server | Next.js, Postgres (Supabase, row-level security), Docker Compose, Tailscale |
+| [Arck’s Warehouse: Film Equipment Checkout](https://github.com/omar-al-jazar/arcks-warehouse-shadcn) | Equipment checkout and inventory app for a film-gear warehouse, self-hosted on my Linux server | Next.js, Postgres (Supabase, row-level security), Docker Compose, Tailscale |
 | PCA factory backend *(private client code)* | Backend for a factory's projects, approvals, deliveries and chat, with a container deployment pipeline | NestJS, PostgreSQL, Redis, Docker, Caddy, GitHub Actions |
 | [CV website](https://github.com/omar-al-jazar/omar-barakat-cv) | This CV as a website, built from one source file | HTML, CSS, GitHub Pages |
 | [Portfolio](https://github.com/omar-al-jazar/omar-barakat-portfolio) | Personal portfolio site | HTML, CSS, JavaScript |
